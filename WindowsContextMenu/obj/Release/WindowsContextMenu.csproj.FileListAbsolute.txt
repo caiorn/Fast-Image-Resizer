@@ -1,0 +1,9 @@
+C:\Users\Caio\Documents\C# Projects\WindowsContextMenu\WindowsContextMenu\bin\Release\WindowsContextMenu.exe
+C:\Users\Caio\Documents\C# Projects\WindowsContextMenu\WindowsContextMenu\bin\Release\WindowsContextMenu.pdb
+C:\Users\Caio\Documents\C# Projects\WindowsContextMenu\WindowsContextMenu\obj\Release\WindowsContextMenu.csprojAssemblyReference.cache
+C:\Users\Caio\Documents\C# Projects\WindowsContextMenu\WindowsContextMenu\obj\Release\WindowsContextMenu.Form1.resources
+C:\Users\Caio\Documents\C# Projects\WindowsContextMenu\WindowsContextMenu\obj\Release\WindowsContextMenu.Properties.Resources.resources
+C:\Users\Caio\Documents\C# Projects\WindowsContextMenu\WindowsContextMenu\obj\Release\WindowsContextMenu.csproj.GenerateResource.cache
+C:\Users\Caio\Documents\C# Projects\WindowsContextMenu\WindowsContextMenu\obj\Release\WindowsContextMenu.csproj.CoreCompileInputs.cache
+C:\Users\Caio\Documents\C# Projects\WindowsContextMenu\WindowsContextMenu\obj\Release\WindowsContextMenu.exe
+C:\Users\Caio\Documents\C# Projects\WindowsContextMenu\WindowsContextMenu\obj\Release\WindowsContextMenu.pdb
